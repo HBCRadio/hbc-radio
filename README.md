@@ -9,4 +9,4 @@ Desenvolvido com Astro e hospedado no Netlify.
 - Astro
 - HTML
 - CSS
-- JavaScript
+- JavaScriptgit add README.md
